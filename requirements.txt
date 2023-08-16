@@ -1,3 +1,10 @@
+# -e .
+# -e .
+pandas
 numpy
+seaborn
+scikit-learn
+catboost
+xgboost
 streamlit
-sklearn
+dill
