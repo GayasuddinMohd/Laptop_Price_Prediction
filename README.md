@@ -44,6 +44,10 @@ Laptop price prediction using Random Forest regression showcases the power of en
 
 
 
+https://github.com/GayasuddinMohd/Laptop_Price_Prediction/assets/119905964/d2e92992-9560-4a89-8489-cdeddf85dd1b
+
+
+
 
 
 
