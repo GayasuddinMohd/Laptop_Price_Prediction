@@ -1,4 +1,6 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Laptop_Price_Prediction/blob/master/Laptop%20Image.jpg?raw=true)
+![Laptop Image](https://github.com/GayasuddinMohd/Laptop_Price_Prediction/raw/master/Laptop%20Image.jpg)
+
+
 
 # 🌼  Laptop Price Prediction  🌼
 Predicting laptop prices using the Random Forest algorithm is a versatile and accurate approach. In this tutorial, we will build a laptop price prediction model using the Random Forest regression algorithm.
