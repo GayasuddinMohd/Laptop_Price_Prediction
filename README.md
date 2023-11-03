@@ -1,4 +1,4 @@
-![Laptop Image](https://media.istockphoto.com/id/1157789866/photo/modern-computer-laptop-with-blank-screen-on-counter-barand-window-view.jpg?s=2048x2048&w=is&k=20&c=KgVMg1JGddzy3Xhd53oQaXC1OV-Biq2Ks-VtPswP22E=)
+![Laptop Image](https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
 
