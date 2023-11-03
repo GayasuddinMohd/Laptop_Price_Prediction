@@ -1,4 +1,4 @@
-![Laptop Image](https://github.com/GayasuddinMohd/Laptop_Price_Prediction/raw/master/Laptop%20Image.jpg)
+![Laptop Image](https://media.istockphoto.com/id/1157789866/photo/modern-computer-laptop-with-blank-screen-on-counter-barand-window-view.jpg?s=2048x2048&w=is&k=20&c=KgVMg1JGddzy3Xhd53oQaXC1OV-Biq2Ks-VtPswP22E=)
 
 
 
