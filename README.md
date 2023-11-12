@@ -1,51 +1,19 @@
 ![Laptop Image](https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-
-
-# 🌼  Laptop Price Prediction  🌼
+# Laptop Price Prediction  
 Predicting laptop prices using the Random Forest algorithm is a versatile and accurate approach. In this tutorial, we will build a laptop price prediction model using the Random Forest regression algorithm.
 
-# 🌼  Libraries Used  🌼
-We will use the following Python libraries for this task:
-
-* Pandas: For data manipulation and preprocessing.
-* Scikit-learn: For building and evaluating the Random Forest regression model.
-* Matplotlib: For visualizing data and model performance.
-* Seaborn : For visualizing data and model performance.
-* NumPy : For perform a wide variety of mathematical operations.
-
-# 🌼  Repository Overview  🌼
-This repository is about Laptop Price Prediction with the help of Random Forest ML Algorithm.
-   - It has a python notebook where all the coding has been done.
-   - It also has the relevant datasets and files used for this analysis.
-
-# 🌼  Technologies Used  🌼
+# Technologies Used
 * Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-* ML Algorithms
-* Scikit-Learn
-* MS Excel
-
-# 🌼  Dataset  🌼
-* You can download the dataset from the GitHub website link given below.
-* https://github.com/campusx-official/laptop-price-predictor-regression-project/blob/main/laptop_data.csv
-
-# 🌼  Summary  🌼
+* Machine learning
+  
+#  Dataset  
+* Download the dataset from [GitHub](https://github.com/campusx-official/laptop-price-predictor-regression-project/blob/main/laptop_data.csv).
+  
+# Result
 * R2 score 0.8875592075383176
 * MAE 0.15876547703102858
-
-# 🌼  Conclusion  🌼
-Laptop price prediction using Random Forest regression showcases the power of ensemble algorithms in making accurate predictions. By utilizing the capabilities of Python libraries like Pandas and Scikit-learn, you can create robust models that offer valuable insights for both consumers and sellers.
-
-
-
+  
 https://github.com/GayasuddinMohd/Laptop_Price_Prediction/assets/119905964/d2e92992-9560-4a89-8489-cdeddf85dd1b
 
 
