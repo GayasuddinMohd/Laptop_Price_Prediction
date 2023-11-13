@@ -3,7 +3,7 @@
 # Laptop Price Prediction  
 Predicting laptop prices using the Random Forest algorithm is a versatile and accurate approach. In this tutorial, we will build a laptop price prediction model using the Random Forest regression algorithm.
 
-# Technologies Used
+# Skills
 * Python
 * Machine learning
   
